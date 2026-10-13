@@ -6,6 +6,7 @@ public class ShoppingList {
 
     public static void main(String[] args) {
 
+
         System.out.println("Welcome to Grocery Store");
 
         System.out.println("1. Chicken");
@@ -14,6 +15,11 @@ public class ShoppingList {
 
         System.out.println("3. Bread");
 
-        System.out.println("2. Bean");
+        System.out.println("4. Bean");
+
+        System.out.println("4. Potatoes");
+
+        System.out.println("6. Tomatoes");
+
     }
 }
